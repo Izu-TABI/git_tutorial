@@ -3,3 +3,4 @@ git
 git commit
 git add
 git branch
+git diff
